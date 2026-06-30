@@ -1,0 +1,16 @@
+{
+    "name": "ai-workers-tdd",
+    "owner": {
+        "name": "Sangfor"
+    },
+    "plugins": [
+        {
+            "name": "cospowers-tdd-development",
+            "version": "0.0.1",
+            "source": "./",
+            "author": {
+                "name": "Sangfor"
+            }
+        }
+    ]
+}
